@@ -2,9 +2,9 @@
 
 shopt -s nullglob
 
-# feh --bg-fill ~/.wallpaper/arch/istheorederarch.png
+# feh --bg-fill ~/.wallpapers/arch/istheorederarch.png
 
-cd ~/.wallpaper/ji
+cd ~/.wallpapers/ji
 
 while true; do
         files=()
